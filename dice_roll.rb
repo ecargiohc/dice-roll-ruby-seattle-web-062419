@@ -1,4 +1,4 @@
-def roll(number =rand(1...6))
+def roll(number = rand(1...6))
    # Create method `roll` that returns a random number between 1 and 6
 end
 return roll

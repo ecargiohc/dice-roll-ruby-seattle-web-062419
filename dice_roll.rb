@@ -1,3 +1,4 @@
-def roll(number = rand(1...6))
+def roll(number)
+  number 
   return number[i]
 end

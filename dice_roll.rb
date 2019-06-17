@@ -1,6 +1,6 @@
 def roll(number)
   number = arr.rand(1...6)
-  return number 
+  return number[i]
 end
   return number[i]
 end

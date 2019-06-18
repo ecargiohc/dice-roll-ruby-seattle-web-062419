@@ -1,5 +1,5 @@
 def roll(number = rand(1...6))
-  number = []]
+  number = []
   return number[i]
 end
   

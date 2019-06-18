@@ -1,4 +1,5 @@
-def roll(number = rand(1...6))
+def roll
+  number = rand(1...6)
   return number
 end
   

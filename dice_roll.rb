@@ -1,5 +1,5 @@
 def roll
-  puts number = rand(1...6)
+  puts number = rand(1..7)
   return number
 end
   
